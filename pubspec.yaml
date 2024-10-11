@@ -1,0 +1,24 @@
+name: flutter_maps_poc
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  cloud_firestore: ^5.4.4
+  firebase_core: ^3.6.0
+  flutter:
+    sdk: flutter
+  geolocator: ^13.0.1
+  google_maps_flutter: ^2.9.0
+  permission_handler: ^11.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
