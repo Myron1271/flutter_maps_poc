@@ -2,7 +2,7 @@
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
     <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
     <application
-        android:label="flutter_maps_poc"
+        android:label="Flutter Maps POC"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
