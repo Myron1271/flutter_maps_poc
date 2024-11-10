@@ -7,7 +7,7 @@
 .atom/
 .buildlog/
 .history
-.svn/
+.svn/ .
 migrate_working_dir/
 
 # IntelliJ related
@@ -41,3 +41,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+android/app/src/main/AndroidManifest.xml
+ios/Runner/AppDelegate.swift
