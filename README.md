@@ -35,8 +35,7 @@ Hoe je de applicatie kunt draaien op een Iphone Emulator is hier te vinden: [Run
 
 ## Authors
 
-Myron Seelen
-[Myron Seelen LinkedIN]([https://twitter.com/JohnDoe](https://www.linkedin.com/in/myron-seelen/))
+[Myron Seelen LinkedIn](https://www.linkedin.com/in/myron-seelen/)
 
 ## Version History
 
